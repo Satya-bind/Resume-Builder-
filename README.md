@@ -8,9 +8,8 @@ This project is a website created with HTML, CSS, and JavaScript to facilitate r
 How It Works:
 
 Input Details: Users enter personal information, education, work history, and skills.
-Customize Design: Choose from available templates or personalize layout, fonts, and colors.
 Live Preview: View changes in real-time within the resume preview section.
-Export: Download the resume in PDF or Word format for sharing and printing purposes.
+Export: Download the resume in PDF.
 Benefits:
 
 User-friendly interface
